@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+next-env.d.ts
+
+# Env
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
+
+# Local test/scratch CSV samples (not part of the app)
+/submission_sample*.csv
+/submission_sample*.numbers
